@@ -24,3 +24,16 @@ It was an interesting experience due to the lab works.
 </details>
 
 I also highlighted the interesting things about  `git fetch/pull/push origin source:destination`
+
+</details>
+
+## Linux CLI, and HTTP
+
+
+<details>
+<summary>SEE THE SCREENSHOTS</summary>
+
+![Learn Linux Commands](task_linux_cli/linux.jpg)
+![Learn Linux Commands](task_linux_cli/linux2.jpg)
+![Learn Linux Commands](task_linux_cli/linux3.jpg)
+![Learn Linux Commands](task_linux_cli/linux4.jpg)

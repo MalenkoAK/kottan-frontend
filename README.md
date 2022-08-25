@@ -37,3 +37,16 @@ I also highlighted the interesting things about  `git fetch/pull/push origin sou
 ![Learn Linux Commands](task_linux_cli/linux2.jpg)
 ![Learn Linux Commands](task_linux_cli/linux3.jpg)
 ![Learn Linux Commands](task_linux_cli/linux4.jpg)
+
+</details>
+
+## Git Collaboration
+
+
+<details>
+<summary>SEE THE SCREENSHOTS</summary>
+
+![image](task_git_collaboration/coursera3week.jpg)
+![image](task_git_collaboration/coursera4week.jpg)
+![image](task_git_collaboration/Git-test.jpg)
+![image](task_git_collaboration/git-test2.jpg)

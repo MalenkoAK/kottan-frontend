@@ -50,3 +50,14 @@ I also highlighted the interesting things about  `git fetch/pull/push origin sou
 ![image](task_git_collaboration/coursera4week.jpg)
 ![image](task_git_collaboration/Git-test.jpg)
 ![image](task_git_collaboration/git-test2.jpg)
+
+</details>
+
+## Intro to HTML and CSS
+
+
+<details>
+<summary>SEE THE SCREENSHOTS</summary>
+
+![image](task_html_css_intro/html_css_week1.jpg)
+![image](task_html_css_intro/html_css_week2.jpg)

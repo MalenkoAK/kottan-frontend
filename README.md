@@ -73,3 +73,12 @@ I also highlighted the interesting things about  `git fetch/pull/push origin sou
 
 ![image](task_responsive_web_design/scrnli_01-09-2022_09-14-22.png)
 ![image](task_responsive_web_design/scrnli_01-09-2022_18-33-43.png)
+
+## HTML and CSS practice
+
+
+<details>
+<summary>SEE THE PRACTICE</summary>
+
+[Demo](https://malenkoak.github.io/Popup/)
+[Code basic](https://github.com/MalenkoAK/kottan-frontend/blob/main/Popup/index.html)

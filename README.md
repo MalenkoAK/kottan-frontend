@@ -74,6 +74,8 @@ I also highlighted the interesting things about  `git fetch/pull/push origin sou
 ![image](task_responsive_web_design/scrnli_01-09-2022_09-14-22.png)
 ![image](task_responsive_web_design/scrnli_01-09-2022_18-33-43.png)
 
+</details>
+
 ## HTML and CSS practice
 
 

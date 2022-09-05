@@ -82,5 +82,5 @@ I also highlighted the interesting things about  `git fetch/pull/push origin sou
 <details>
 <summary>SEE THE PRACTICE</summary>
 
-[Demo](https://malenkoak.github.io/Popup/)|
+[Demo](https://malenkoak.github.io/Popup/) |
 [Code basic](https://github.com/MalenkoAK/kottan-frontend/tree/main/Popup)
